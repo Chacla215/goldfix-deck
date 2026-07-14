@@ -1,0 +1,48 @@
+{
+  "date": "2026-07-14",
+  "draft_id": 206826357,
+  "rows": [
+    {
+      "time": "8:30a",
+      "event": "Consumer price index (June)",
+      "note": "prev 0.5% \u00b7 est -0.2%",
+      "hot": false
+    },
+    {
+      "time": "8:30a",
+      "event": "CPI year over year",
+      "note": "prev 4.2% \u00b7 est 3.8%",
+      "hot": false
+    },
+    {
+      "time": "8:30a",
+      "event": "Core CPI (June)",
+      "note": "prev 0.2% \u00b7 est -0.2%",
+      "hot": false
+    },
+    {
+      "time": "8:30a",
+      "event": "Core CPI year over year",
+      "note": "prev 2.9% \u00b7 est 2.8%",
+      "hot": true
+    },
+    {
+      "time": "10a",
+      "event": "Federal Reserve Chairman Kevin Warsh testifies to Congress",
+      "note": "",
+      "hot": true
+    },
+    {
+      "time": "12:40p",
+      "event": "Barr \u00b7 Goolsbee \u00b7 Cook \u00b7 Bowman",
+      "note": "Fed speakers",
+      "hot": false
+    }
+  ],
+  "sponsor": {
+    "title": "GoldFix Members: Exclusive Bullion Pricing Now Available",
+    "dek": "GoldFix has partnered with Battalion Metals to give our community direct access to institutional-grade physical bullion at exclusive member pricing. Through this partnership, GoldFix members can purchase gold and silver products at pricing typically about 100 basis points below prevailing dealer rates,",
+    "cover": "https://substack-post-media.s3.amazonaws.com/public/images/767a6e1c-3ac2-4021-9fcd-606706e80e77_481x234.png",
+    "source": "GoldFix"
+  }
+}
