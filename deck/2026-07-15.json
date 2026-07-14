@@ -1,0 +1,60 @@
+{
+  "date": "2026-07-15",
+  "draft_id": 207000052,
+  "rows": [
+    {
+      "time": "8:30a",
+      "event": "Producer price index (June)",
+      "note": "prev 1.1% \u00b7 est -0.0%",
+      "hot": false
+    },
+    {
+      "time": "8:30a",
+      "event": "Core PPI (June)",
+      "note": "prev 0.8% \u00b7 est 0.3%",
+      "hot": false
+    },
+    {
+      "time": "8:30a",
+      "event": "PPI year over year",
+      "note": "prev 6.5%",
+      "hot": false
+    },
+    {
+      "time": "8:30a",
+      "event": "Core PPI year over year",
+      "note": "prev 5.1%",
+      "hot": true
+    },
+    {
+      "time": "8:30a",
+      "event": "Empire State manufacturing survey (July)",
+      "note": "prev 5.7 \u00b7 est 8.4",
+      "hot": false
+    },
+    {
+      "time": "8:45a",
+      "event": "Williams \u00b7 Cook \u00b7 Musalem",
+      "note": "Fed speakers",
+      "hot": false
+    },
+    {
+      "time": "10a",
+      "event": "Federal Reserve Chairman Kevin Warsh testifies to Congress",
+      "note": "",
+      "hot": true
+    },
+    {
+      "time": "2p",
+      "event": "Fed Beige Book",
+      "note": "",
+      "hot": false
+    }
+  ],
+  "sponsor": {
+    "title": "GoldFix Members: Exclusive Bullion Pricing Now Available",
+    "dek": "GoldFix has partnered with Battalion Metals to give our community direct access to institutional-grade physical bullion at exclusive member pricing. Through this partnership, GoldFix members can purchase gold and silver products at pricing typically about 100 basis points below prevailing dealer rates,",
+    "cover": "https://substack-post-media.s3.amazonaws.com/public/images/767a6e1c-3ac2-4021-9fcd-606706e80e77_481x234.png",
+    "source": "GoldFix"
+  }
+}
