@@ -4,6 +4,12 @@
   "cover": "https://substack-post-media.s3.amazonaws.com/public/images/f8f072f7-6465-4a2c-90f1-c63c34046d8c_1280x720.jpeg",
   "posts": [
     {
+      "slug": "nvidia-loses-1-trillion-still-worth",
+      "title": "Nvidia Loses $1 Trillion, Still Worth 2.3x the Top 50 Miners",
+      "cover": "https://substackcdn.com/image/fetch/$s_!Uxa1!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F87dc7e80-61e9-4fd3-b0c4-e434723112d7_1672x941.png",
+      "summary": "Mining majors gained 47% over the past year against Nvidia's 27%, yet the chipmaker's $5.11 trillion still doubles the group's $2.19 trillion."
+    },
+    {
       "slug": "jpmorgan-says-russia-has-become-the",
       "title": "JPMorgan Says Russia Has Become the New Fault Line in Global Fuel Markets",
       "cover": "https://substack-post-media.s3.amazonaws.com/public/images/a0a45c7f-8d01-44d7-a89d-eb3af17b6d77_1536x1024.png",
@@ -110,12 +116,6 @@
       "title": "GoldFix PM:",
       "cover": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/e4f0405b-1858-408b-a4ed-724ef17c39b5_470x470.png",
       "summary": "GoldFix PM"
-    },
-    {
-      "slug": "founders-first-look-b81",
-      "title": "Founders: First Look",
-      "cover": "https://substack-post-media.s3.amazonaws.com/public/images/80d58729-39f3-4880-99fb-57d18fd1a655_185x91.png",
-      "summary": "Flow Show"
     }
   ]
 }
