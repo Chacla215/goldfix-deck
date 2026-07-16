@@ -1,0 +1,60 @@
+{
+  "date": "2026-07-17",
+  "draft_id": 207273425,
+  "rows": [
+    {
+      "time": "8:30a",
+      "event": "Import price index (June)",
+      "note": "prev 1.9% \u00b7 est -0.8%",
+      "hot": false
+    },
+    {
+      "time": "8:30a",
+      "event": "Import price index minus fuel (June)",
+      "note": "prev 0.8%",
+      "hot": false
+    },
+    {
+      "time": "8:30a",
+      "event": "Housing starts (June)",
+      "note": "prev 1.18 million \u00b7 est 1.31 million",
+      "hot": false
+    },
+    {
+      "time": "8:30a",
+      "event": "Building permits (June)",
+      "note": "prev 1.41 million \u00b7 est 1.41 million",
+      "hot": false
+    },
+    {
+      "time": "9:15a",
+      "event": "Industrial production (June)",
+      "note": "prev 0.1% \u00b7 est 0.2%",
+      "hot": false
+    },
+    {
+      "time": "9:15a",
+      "event": "Capacity utilization (June)",
+      "note": "prev 76.2 \u00b7 est 76.2%",
+      "hot": false
+    },
+    {
+      "time": "10a",
+      "event": "Consumer sentiment (prelim) (July)",
+      "note": "prev 49.5 \u00b7 est 50.5",
+      "hot": false
+    },
+    {
+      "time": "10a",
+      "event": "Home builder confidence index (July)",
+      "note": "prev 35 \u00b7 est 35",
+      "hot": false
+    }
+  ],
+  "sponsor": {
+    "title": "GoldFix Members: Exclusive Bullion Pricing Now Available",
+    "dek": "GoldFix has partnered with Battalion Metals to give our community direct access to institutional-grade physical bullion at exclusive member pricing. Through this partnership, GoldFix members can purchase gold and silver products at pricing typically about 100 basis points below prevailing dealer rates,",
+    "cover": "https://substack-post-media.s3.amazonaws.com/public/images/767a6e1c-3ac2-4021-9fcd-606706e80e77_481x234.png",
+    "source": "GoldFix"
+  }
+}
