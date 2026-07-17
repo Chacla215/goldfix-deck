@@ -1,7 +1,7 @@
 {
   "date": "2026-07-17",
   "title": "Bessent's Fort Knox Showdown",
-  "cover": "https://substack-post-media.s3.amazonaws.com/public/images/bc54e37d-39bc-49a6-8d2f-61ef698159ec_1400x1400.png",
+  "cover": "https://substack-video.s3.amazonaws.com/video_upload/post/207273425/459fa45a-10e2-4a79-a647-d692bfe0c3af/transcoded-00001.png",
   "posts": [
     {
       "slug": "iran-says-hormuz-is-shut-brent-jumps",
@@ -14,6 +14,18 @@
       "title": "HSBC: Gold Fell on Rate Hike Expectations; Weak But Near a Low",
       "cover": "https://substack-post-media.s3.amazonaws.com/public/images/37102093-f3b3-4eaf-8ccf-e255208f98f7_1672x941.png",
       "summary": ""
+    },
+    {
+      "slug": "bofa-technicals-golds-unfinished",
+      "title": "BofA Technicals: Gold's Unfinished Correction",
+      "cover": "https://substackcdn.com/image/fetch/$s_!7oGY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1e6e7b0c-2774-4223-bf70-4f2240d9075b_763x603.png",
+      "summary": "With Full Chart Pack"
+    },
+    {
+      "slug": "founders-am-golds-lost-year",
+      "title": "Founders AM: Gold's Lost Year",
+      "cover": "https://substack-post-media.s3.amazonaws.com/public/images/4c10d056-1ce2-42be-8221-6e3315f5913a_333x116.png",
+      "summary": "Capital markets recap, commentary, and analysis for evolving traders"
     },
     {
       "slug": "goldfix-pm-c13",
@@ -122,12 +134,6 @@
       "title": "Inflation: The End of Plausible Deniability",
       "cover": "https://substack-post-media.s3.amazonaws.com/public/images/d83becca-f07a-42d8-838d-040d5e38c9f7_1536x1024.png",
       "summary": "Taskforces Save the Day"
-    },
-    {
-      "slug": "technicals-not-so-precious-metals",
-      "title": "Technicals: Not So Precious Metals",
-      "cover": "https://substackcdn.com/image/fetch/$s_!rExc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7dad73fa-29ba-4134-a65c-144ad00cbecd_1382x730.png",
-      "summary": "BTIG Gives us the other side of the coin"
     }
   ]
 }
