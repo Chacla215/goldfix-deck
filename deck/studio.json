@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-16",
+  "date": "2026-07-17",
   "title": "Bessent's Fort Knox Showdown",
   "cover": "https://substack-post-media.s3.amazonaws.com/public/images/bc54e37d-39bc-49a6-8d2f-61ef698159ec_1400x1400.png",
   "posts": [
@@ -14,6 +14,12 @@
       "title": "HSBC: Gold Fell on Rate Hike Expectations; Weak But Near a Low",
       "cover": "https://substack-post-media.s3.amazonaws.com/public/images/37102093-f3b3-4eaf-8ccf-e255208f98f7_1672x941.png",
       "summary": ""
+    },
+    {
+      "slug": "goldfix-pm-c13",
+      "title": "GoldFix PM: Market Recap",
+      "cover": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/e4f0405b-1858-408b-a4ed-724ef17c39b5_470x470.png",
+      "summary": "GoldFix PM"
     },
     {
       "slug": "the-countries-with-the-worlds-largest",
