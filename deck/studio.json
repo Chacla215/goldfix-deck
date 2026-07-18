@@ -5,126 +5,147 @@
   "posts": [
     {
       "slug": "iran-says-hormuz-is-shut-brent-jumps",
+      "id": 206833773,
       "title": "Iran Says Hormuz Is Shut; Brent Jumps 4%",
       "cover": "https://substack-post-media.s3.amazonaws.com/public/images/62b5f951-3a85-407b-ba38-d6f2e2e05aca_2048x1152.png",
       "summary": ""
     },
     {
       "slug": "hsbc-gold-fell-on-rate-hike-expectations",
+      "id": 204283069,
       "title": "HSBC: Gold Fell on Rate Hike Expectations; Weak But Near a Low",
       "cover": "https://substack-post-media.s3.amazonaws.com/public/images/37102093-f3b3-4eaf-8ccf-e255208f98f7_1672x941.png",
       "summary": ""
     },
     {
       "slug": "goldman-says-remain-calm",
+      "id": 207430811,
       "title": "China's Huge OTC Buying Scoops 48 Tonnes in May",
       "cover": "https://substackcdn.com/image/fetch/$s_!LwN4!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbab85858-0f8c-4eeb-9dd5-97a1d208cddc_1288x792.png",
       "summary": "Strong OTC Central Bank Buying Provides Price Floor"
     },
     {
       "slug": "goldfix-pm-47c",
+      "id": 207412798,
       "title": "GoldFix PM: China Buying with a Vengeance",
       "cover": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/e4f0405b-1858-408b-a4ed-724ef17c39b5_470x470.png",
       "summary": "GoldFix PM- market recap"
     },
     {
       "slug": "founders-goldman-remains-firm-on",
+      "id": 207420467,
       "title": "**Founders: Goldman Remains Firm on China OTC Buying",
       "cover": "https://substackcdn.com/image/fetch/$s_!Qrbz!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3c55ca6d-7912-427a-abdd-d8ccfdf5eab1_1308x766.png",
       "summary": "Goldman Sachs"
     },
     {
       "slug": "rabo-burnham-takes-no-10-monday-the",
+      "id": 207416901,
       "title": "Rabo: Burnham Takes No. 10 Monday; The UK's Seventh PM in a Decade",
       "cover": "https://substackcdn.com/image/fetch/$s_!cUxf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F81c7cf00-5b8e-4689-9406-a1f144967dd0_1774x887.png",
       "summary": "Rabo"
     },
     {
       "slug": "bofa-technicals-golds-unfinished",
+      "id": 207405373,
       "title": "BofA Technicals: Gold's Unfinished Correction",
       "cover": "https://substackcdn.com/image/fetch/$s_!7oGY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1e6e7b0c-2774-4223-bf70-4f2240d9075b_763x603.png",
       "summary": "With Full Chart Pack"
     },
     {
       "slug": "founders-am-golds-lost-year",
+      "id": 207406756,
       "title": "Founders AM: Gold's Lost Year",
       "cover": "https://substack-post-media.s3.amazonaws.com/public/images/4c10d056-1ce2-42be-8221-6e3315f5913a_333x116.png",
       "summary": "Capital markets recap, commentary, and analysis for evolving traders"
     },
     {
       "slug": "goldfix-pm-c13",
+      "id": 207270899,
       "title": "GoldFix PM: Market Recap",
       "cover": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/e4f0405b-1858-408b-a4ed-724ef17c39b5_470x470.png",
       "summary": "GoldFix PM"
     },
     {
       "slug": "the-countries-with-the-worlds-largest",
+      "id": 207315829,
       "title": "The Countries With the World's Largest Gold, Silver, and Platinum Reserves",
       "cover": "https://substackcdn.com/image/fetch/$s_!FQ7h!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F88671efc-bfd7-4df2-ada1-e626dcce64d2_1200x1921.jpeg",
       "summary": "Visual Capitalist"
     },
     {
       "slug": "silver-vs-gold-annual-returns-during",
+      "id": 207140788,
       "title": "Silver vs. Gold: Annual Returns During Downturns",
       "cover": "https://substackcdn.com/image/fetch/$s_!ju7t!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5ce91855-60f3-4961-af60-63a52e541793_2500x3233.webp",
       "summary": "Visual Capitalist"
     },
     {
       "slug": "founders-am-europes-appetite-for",
+      "id": 207274846,
       "title": "Founders AM: Europe\u2019s Appetite for U.S. Stocks Is Starting to Fade",
       "cover": "https://substackcdn.com/image/fetch/$s_!U0WR!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F93d31904-a4db-4943-86db-9d1a59559773_513x337.png",
       "summary": "GS CTA Flows"
     },
     {
       "slug": "bessent-says-all-gold-is-present",
+      "id": 207166700,
       "title": "Bessent Says \"All Gold is Present\" in Fort Knox Showdown",
       "cover": "https://substackcdn.com/image/fetch/$s_!AihT!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa3276ea9-c63e-4799-a7cb-b35f2ef24d74_937x516.png",
       "summary": "Treasury Secretary Scott Bessent reaffirmed that all U.S."
     },
     {
       "slug": "goldfix-pm-c5f",
+      "id": 207140175,
       "title": "GoldFix PM:",
       "cover": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/e4f0405b-1858-408b-a4ed-724ef17c39b5_470x470.png",
       "summary": "GoldFix PM"
     },
     {
       "slug": "nvidia-loses-1-trillion-still-worth",
+      "id": 207156573,
       "title": "Nvidia Loses $1 Trillion, Still Worth 2.3x the Top 50 Miners",
       "cover": "https://substackcdn.com/image/fetch/$s_!Uxa1!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F87dc7e80-61e9-4fd3-b0c4-e434723112d7_1672x941.png",
       "summary": "Mining majors gained 47% over the past year against Nvidia's 27%, yet the chipmaker's $5.11 trillion still doubles the group's $2.19 trillion."
     },
     {
       "slug": "jpmorgan-says-russia-has-become-the",
+      "id": 207141858,
       "title": "JPMorgan Says Russia Has Become the New Fault Line in Global Fuel Markets",
       "cover": "https://substack-post-media.s3.amazonaws.com/public/images/a0a45c7f-8d01-44d7-a89d-eb3af17b6d77_1536x1024.png",
       "summary": "JPMorgan argues the energy market is entering a new phase where refining capacity, rather than crude production, becomes the primary source of risk."
     },
     {
       "slug": "founders-am-russian-oil-problems",
+      "id": 207141214,
       "title": "Founders AM: Russian Oil Problems",
       "cover": "https://substackcdn.com/image/fetch/$s_!AToN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe4bd1277-f805-4e8a-a9e8-0c1e6e4a59e5_517x470.png",
       "summary": "ZH wrote about this today."
     },
     {
       "slug": "bnp-higher-rates-today-higher-gold",
+      "id": 207016727,
       "title": "BNP: Higher Rates Today, Higher Gold Tomorrow",
       "cover": "https://substack-post-media.s3.amazonaws.com/public/images/374fb10f-f702-4e3d-b579-86049b15d002_1536x1024.png",
       "summary": "BNP Paribas says gold's correction reflects rising U.S."
     },
     {
       "slug": "goldfix-pm-34a",
+      "id": 206999608,
       "title": "GoldFix PM:",
       "cover": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/e4f0405b-1858-408b-a4ed-724ef17c39b5_470x470.png",
       "summary": "GoldFix PM"
     },
     {
       "slug": "founders-the-high-ground-now-has",
+      "id": 206880001,
       "title": "Founders: The High Ground Now Has a Ticker",
       "cover": "",
       "summary": "Space just had its first real drawdown as an asset class. Why we're long Rocket Lab, Redwire, and Intuitive Machines (with Navitas for the power) and why this window is the point of the exercise"
     },
     {
       "slug": "germany-quit-nuclear-so-why-is-it",
+      "id": 207000790,
       "title": "Germany Quit Nuclear. So Why Is It Importing More?",
       "cover": "https://substackcdn.com/image/fetch/$s_!Gl0M!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F80f9c575-e354-4fc2-b0e2-bd35fdc1ad90_1920x2400.webp",
       "summary": "Visual Capitalist"
