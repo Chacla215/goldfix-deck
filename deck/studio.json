@@ -1,6 +1,6 @@
 {
   "date": "2026-07-21",
-  "title": "China 'Secretly' Stacked 48 Tonnes of Gold in May",
+  "title": "Hong Kong Expands Gold Corridor",
   "cover": "https://substack-post-media.s3.amazonaws.com/public/images/bc54e37d-39bc-49a6-8d2f-61ef698159ec_1400x1400.png",
   "posts": [
     {
@@ -9,6 +9,20 @@
       "title": "Iran Says Hormuz Is Shut; Brent Jumps 4%",
       "cover": "https://substack-post-media.s3.amazonaws.com/public/images/62b5f951-3a85-407b-ba38-d6f2e2e05aca_2048x1152.png",
       "summary": ""
+    },
+    {
+      "slug": "breaking-rbi-proposes-linking-brics",
+      "id": 207916605,
+      "title": "Breaking: RBI proposes linking Brics currencies at 2026 summit",
+      "cover": "https://substack-post-media.s3.amazonaws.com/public/images/44dfd6cf-a00e-4abf-a3cf-621bd24bf648_1672x941.png",
+      "summary": "BRICS Builds the Rails Before the Currency"
+    },
+    {
+      "slug": "rabo-the-ai-trade-war-goes-global",
+      "id": 207902163,
+      "title": "Rabo: The AI Trade War Goes Global",
+      "cover": "https://substackcdn.com/image/fetch/$s_!TqTa!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8eec3c22-87b1-41f7-91be-d178a6414f39_1672x941.png",
+      "summary": "Rabo"
     },
     {
       "slug": "goldfix-pm-953",
@@ -121,32 +135,37 @@
       "title": "Silver vs. Gold: Annual Returns During Downturns",
       "cover": "https://substackcdn.com/image/fetch/$s_!ju7t!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5ce91855-60f3-4961-af60-63a52e541793_2500x3233.webp",
       "summary": "Visual Capitalist"
-    },
-    {
-      "slug": "founders-am-europes-appetite-for",
-      "id": 207274846,
-      "title": "Founders AM: Europe\u2019s Appetite for U.S. Stocks Is Starting to Fade",
-      "cover": "https://substackcdn.com/image/fetch/$s_!U0WR!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F93d31904-a4db-4943-86db-9d1a59559773_513x337.png",
-      "summary": "GS CTA Flows"
-    },
-    {
-      "slug": "bessent-says-all-gold-is-present",
-      "id": 207166700,
-      "title": "Bessent Says \"All Gold is Present\" in Fort Knox Showdown",
-      "cover": "https://substackcdn.com/image/fetch/$s_!AihT!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa3276ea9-c63e-4799-a7cb-b35f2ef24d74_937x516.png",
-      "summary": "Treasury Secretary Scott Bessent reaffirmed that all U.S."
-    },
-    {
-      "slug": "goldfix-pm-c5f",
-      "id": 207140175,
-      "title": "GoldFix PM:",
-      "cover": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/e4f0405b-1858-408b-a4ed-724ef17c39b5_470x470.png",
-      "summary": "GoldFix PM"
     }
   ],
   "passage": {
     "text": "The slowdown was not fading interest; it was price discipline. Central banks are not traders chasing momentum. They are savers accumulating a reserve asset, and like any sensible saver, they buy less when the thing they are saving in gets expensive.",
     "title": "Why Central Banks Love a Gold Sell-Off",
     "date": "2026-07-20"
-  }
+  },
+  "otherNews": [
+    {
+      "slug": "goldfix-pm-953",
+      "title": "GoldFix PM:",
+      "cover": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/e4f0405b-1858-408b-a4ed-724ef17c39b5_470x470.png",
+      "date": "2026-07-20"
+    },
+    {
+      "slug": "hong-kong-and-laos-sign-gold-corridor",
+      "title": "Hong Kong and Laos Sign Gold Corridor Agreement",
+      "cover": "https://substack-post-media.s3.amazonaws.com/public/images/5b2563ad-e123-4917-9781-bba64d9f1721_1672x941.png",
+      "date": "2026-07-20"
+    },
+    {
+      "slug": "visualizing-75-years-of-us-energy",
+      "title": "Visualizing 75 Years of U.S. Energy Production",
+      "cover": "https://substackcdn.com/image/fetch/$s_!W-OR!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F99e0c1ed-99d2-41ee-b847-36877019def2_1200x1710.webp",
+      "date": "2026-07-20"
+    },
+    {
+      "slug": "founders-am-some-thoughts-on-china",
+      "title": "Founders AM: Some thoughts on China AI Models",
+      "cover": "https://substackcdn.com/image/fetch/$s_!AToN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe4bd1277-f805-4e8a-a9e8-0c1e6e4a59e5_517x470.png",
+      "date": "2026-07-20"
+    }
+  ]
 }
