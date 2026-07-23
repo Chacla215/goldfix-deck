@@ -1,7 +1,7 @@
 {
-  "date": "2026-07-22",
+  "date": "2026-07-23",
   "title": "Rick Rule: Why the Metals Aren't Dead and When I'm Buying More",
-  "cover": "https://substack-video.s3.amazonaws.com/video_upload/post/208046291/c94b5927-ebf3-455c-9a89-b7a25a79dd6d/transcoded-1784723134.png",
+  "cover": "https://substack-post-media.s3.amazonaws.com/public/images/139e9942-8a41-4587-8f2b-68b5cca8c041_1280x720.jpeg",
   "posts": [
     {
       "slug": "iran-says-hormuz-is-shut-brent-jumps",
@@ -9,6 +9,13 @@
       "title": "Iran Says Hormuz Is Shut; Brent Jumps 4%",
       "cover": "https://substack-post-media.s3.amazonaws.com/public/images/62b5f951-3a85-407b-ba38-d6f2e2e05aca_2048x1152.png",
       "summary": ""
+    },
+    {
+      "slug": "goldfix-pm-a9b",
+      "id": 208044406,
+      "title": "GoldFix PM: $500 of Upside?",
+      "cover": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/e4f0405b-1858-408b-a4ed-724ef17c39b5_470x470.png",
+      "summary": "GoldFix PM"
     },
     {
       "slug": "gold-and-tech-how-the-whales-trick",
@@ -114,13 +121,6 @@
       "title": "Rabo: Burnham Takes No. 10 Monday; The UK's Seventh PM in a Decade",
       "cover": "https://substackcdn.com/image/fetch/$s_!cUxf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F81c7cf00-5b8e-4689-9406-a1f144967dd0_1774x887.png",
       "summary": "Rabo"
-    },
-    {
-      "slug": "bofa-technicals-golds-unfinished",
-      "id": 207405373,
-      "title": "BofA Technicals: Gold's Unfinished Correction",
-      "cover": "https://substackcdn.com/image/fetch/$s_!7oGY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1e6e7b0c-2774-4223-bf70-4f2240d9075b_763x603.png",
-      "summary": "With Full Chart Pack"
     }
   ],
   "passage": {
@@ -130,16 +130,10 @@
   },
   "otherNews": [
     {
-      "slug": "breaking-rbi-proposes-linking-brics",
-      "title": "Breaking: RBI proposes linking Brics currencies at 2026 summit",
-      "cover": "https://substack-post-media.s3.amazonaws.com/public/images/44dfd6cf-a00e-4abf-a3cf-621bd24bf648_1672x941.png",
-      "date": "2026-07-21"
-    },
-    {
-      "slug": "rabo-the-ai-trade-war-goes-global",
-      "title": "Rabo: The AI Trade War Goes Global",
-      "cover": "https://substackcdn.com/image/fetch/$s_!TqTa!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8eec3c22-87b1-41f7-91be-d178a6414f39_1672x941.png",
-      "date": "2026-07-21"
+      "slug": "gold-and-tech-how-the-whales-trick",
+      "title": "Gold & Tech: How the Whales Trick the Retail Plankton",
+      "cover": "https://substackcdn.com/image/fetch/$s_!XF-o!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9f424708-59e5-4174-9945-5a406ae034f5_1024x627.png",
+      "date": "2026-07-22"
     }
   ]
 }
