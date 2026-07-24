@@ -1,7 +1,7 @@
 {
-  "date": "2026-07-23",
+  "date": "2026-07-24",
   "title": "Gold, Silver Sell-off as Oil Spikes $4.00 on Houthi Escalation",
-  "cover": "https://substack-post-media.s3.amazonaws.com/public/images/bc54e37d-39bc-49a6-8d2f-61ef698159ec_1400x1400.png",
+  "cover": "https://substack-post-media.s3.amazonaws.com/public/images/5d923dad-dfa3-4075-a9eb-c93be6c0a378_1280x720.jpeg",
   "posts": [
     {
       "slug": "special-gold-comment",
@@ -9,6 +9,13 @@
       "title": "Special Gold Comment",
       "cover": "https://substackcdn.com/image/fetch/$s_!avxr!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff5089ddd-46d2-43a6-a22b-67d6ad0068cf_1918x1402.png",
       "summary": ""
+    },
+    {
+      "slug": "goldfix-pm-684",
+      "id": 208184350,
+      "title": "GoldFix PM: Oil Slams Gold Rally- Recap.",
+      "cover": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/e4f0405b-1858-408b-a4ed-724ef17c39b5_470x470.png",
+      "summary": "GoldFix PM"
     },
     {
       "slug": "how-americas-energy-sources-changed",
@@ -130,10 +137,22 @@
   },
   "otherNews": [
     {
-      "slug": "gold-and-tech-how-the-whales-trick",
-      "title": "Gold & Tech: How the Whales Trick the Retail Plankton",
-      "cover": "https://substackcdn.com/image/fetch/$s_!XF-o!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9f424708-59e5-4174-9945-5a406ae034f5_1024x627.png",
-      "date": "2026-07-22"
+      "slug": "how-americas-energy-sources-changed",
+      "title": "How America\u2019s Energy Sources Changed Over 250 Years",
+      "cover": "https://substackcdn.com/image/fetch/$s_!JSyt!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F575d0ee2-9993-45a6-9c00-60cd371d95ad_2000x2300.webp",
+      "date": "2026-07-23"
+    },
+    {
+      "slug": "founders-from-liquidation-to-accumulation",
+      "title": "Founders: From Liquidation to Accumulation",
+      "cover": "https://substackcdn.com/image/fetch/$s_!AToN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe4bd1277-f805-4e8a-a9e8-0c1e6e4a59e5_517x470.png",
+      "date": "2026-07-23"
+    },
+    {
+      "slug": "ubs-gold-needs-investors-not-just",
+      "title": "UBS: Gold Needs Investors, Not Just Central Banks",
+      "cover": "https://substackcdn.com/image/fetch/$s_!e2xi!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc7b4ab6e-30f8-4654-b9ae-b072b85081ef_576x494.png",
+      "date": "2026-07-23"
     }
   ]
 }
