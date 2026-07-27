@@ -1,8 +1,29 @@
 {
-  "date": "2026-07-26",
-  "title": "Luke Gromen: China\u2019s Domination During the US\u2019s Middle East Distraction",
-  "cover": "https://substack-video.s3.amazonaws.com/video_upload/post/208435179/c8bce125-365b-4e48-80d4-e53177c0abba/transcoded-12510.png",
+  "date": "2026-07-27",
+  "title": "Founders CFTC CoT Sunday Video",
+  "cover": "https://substack-post-media.s3.amazonaws.com/public/images/bc54e37d-39bc-49a6-8d2f-61ef698159ec_1400x1400.png",
   "posts": [
+    {
+      "slug": "head-of-trading-gold-i-think-its",
+      "id": 208551667,
+      "title": "Head of Trading: \"Gold. I think it\u2019s time to start nibbling.\"",
+      "cover": "https://substackcdn.com/image/fetch/$s_!bkmW!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc18a9059-e727-4265-b467-1beb73541f39_1529x732.png",
+      "summary": "GS"
+    },
+    {
+      "slug": "hartnett-gold-basing-while-bonds",
+      "id": 208496511,
+      "title": "Hartnett: Gold Basing While Bonds Bring Heat",
+      "cover": "https://substack-video.s3.amazonaws.com/video_upload/post/208496511/94a00a89-1261-4651-95da-5fbf340e0684/transcoded-1785066300.png",
+      "summary": "The Flow Show | Bonds bringing the heat"
+    },
+    {
+      "slug": "founders-cftc-cot-analysis-417",
+      "id": 208440542,
+      "title": "Founders: CFTC CoT Analysis",
+      "cover": "https://substackcdn.com/image/fetch/$s_!tHQ5!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F19fbc6ce-c334-4ad5-9894-91a92ad01b50_1525x692.png",
+      "summary": "Hartnett Early Look"
+    },
     {
       "slug": "breaking-china-imports-173-tonnes",
       "id": 208478423,
@@ -100,27 +121,6 @@
       "title": "Gold & Tech: How the Whales Trick the Retail Plankton",
       "cover": "https://substackcdn.com/image/fetch/$s_!XF-o!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9f424708-59e5-4174-9945-5a406ae034f5_1024x627.png",
       "summary": "Von Greyerz"
-    },
-    {
-      "slug": "goldfix-pm-642",
-      "id": 207902150,
-      "title": "GoldFix PM: Market Recap and Insights",
-      "cover": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/e4f0405b-1858-408b-a4ed-724ef17c39b5_470x470.png",
-      "summary": "GoldFix PM"
-    },
-    {
-      "slug": "breaking-rbi-proposes-linking-brics",
-      "id": 207916605,
-      "title": "Breaking: RBI proposes linking Brics currencies at 2026 summit",
-      "cover": "https://substack-post-media.s3.amazonaws.com/public/images/44dfd6cf-a00e-4abf-a3cf-621bd24bf648_1672x941.png",
-      "summary": "BRICS Builds the Rails Before the Currency"
-    },
-    {
-      "slug": "rabo-the-ai-trade-war-goes-global",
-      "id": 207902163,
-      "title": "Rabo: The AI Trade War Goes Global",
-      "cover": "https://substackcdn.com/image/fetch/$s_!TqTa!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8eec3c22-87b1-41f7-91be-d178a6414f39_1672x941.png",
-      "summary": "Rabo"
     }
   ],
   "passage": {
@@ -129,6 +129,24 @@
     "date": "2026-07-23"
   },
   "otherNews": [
+    {
+      "slug": "head-of-trading-gold-i-think-its",
+      "title": "Head of Trading: \"Gold. I think it\u2019s time to start nibbling.\"",
+      "cover": "https://substackcdn.com/image/fetch/$s_!bkmW!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc18a9059-e727-4265-b467-1beb73541f39_1529x732.png",
+      "date": "2026-07-26"
+    },
+    {
+      "slug": "hartnett-gold-basing-while-bonds",
+      "title": "Hartnett: Gold Basing While Bonds Bring Heat",
+      "cover": "https://substack-video.s3.amazonaws.com/video_upload/post/208496511/94a00a89-1261-4651-95da-5fbf340e0684/transcoded-1785066300.png",
+      "date": "2026-07-26"
+    },
+    {
+      "slug": "founders-cftc-cot-analysis-417",
+      "title": "Founders: CFTC CoT Analysis",
+      "cover": "https://substackcdn.com/image/fetch/$s_!tHQ5!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F19fbc6ce-c334-4ad5-9894-91a92ad01b50_1525x692.png",
+      "date": "2026-07-26"
+    },
     {
       "slug": "breaking-china-imports-173-tonnes",
       "title": "Breaking: China Imports 173 Tonnes of Gold in June",
