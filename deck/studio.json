@@ -1,8 +1,29 @@
 {
   "date": "2026-07-28",
-  "title": "Gold Trader: \"I Think It's Time to Start Nibbling\"",
-  "cover": "https://substack-post-media.s3.amazonaws.com/public/images/f1192c50-bdcb-45cb-a09e-8cdb8c456d14_1280x720.jpeg",
+  "title": "JPMorgan's Oil Warning",
+  "cover": "https://substack-post-media.s3.amazonaws.com/public/images/bc54e37d-39bc-49a6-8d2f-61ef698159ec_1400x1400.png",
   "posts": [
+    {
+      "slug": "persian-gulf-de-escalation-vs-red",
+      "id": 208819395,
+      "title": "Persian Gulf De-escalation vs. Red Sea Escalation",
+      "cover": "https://substackcdn.com/image/fetch/$s_!qp6T!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdf1b7907-68f6-4cca-97d0-bc19b9bdf1ad_580x330.png",
+      "summary": "Brent fell below $90 as US-Iran attacks paused and Hormuz reopening talks emerged."
+    },
+    {
+      "slug": "founders-am-red-sea-escalation-and",
+      "id": 208818547,
+      "title": "Founders AM: Red Sea Escalation and a Mining Buy Rec from Goldman",
+      "cover": "",
+      "summary": ""
+    },
+    {
+      "slug": "citi-india-gold-imports-to-face-continued",
+      "id": 208816710,
+      "title": "CITI: India gold imports to face continued headwinds in 3Q\u201926",
+      "cover": "https://substackcdn.com/image/fetch/$s_!AToN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe4bd1277-f805-4e8a-a9e8-0c1e6e4a59e5_517x470.png",
+      "summary": "Indian 3Q Demand Seen as Lackluster Despite Seasonal Buying"
+    },
     {
       "slug": "goldfix-pm-785",
       "id": 208669805,
@@ -83,7 +104,7 @@
     {
       "slug": "oil-markets-escalate-negotiate-violate",
       "id": 208330890,
-      "title": "Oil Markets: Escalate. Negotiate. Violate. Repeat.",
+      "title": "JPM on Oil: Escalate. Negotiate. Violate. Repeat.",
       "cover": "https://substackcdn.com/image/fetch/$s_!5lbE!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2e25c1f3-2f99-46f0-b856-a5ab65fa6c69_518x424.png",
       "summary": "A Familiar Pattern Emerges"
     },
@@ -107,33 +128,12 @@
       "title": "Founders AM: Recap from GS Desk, Electricity, and Midterms",
       "cover": "https://substackcdn.com/image/fetch/$s_!AToN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe4bd1277-f805-4e8a-a9e8-0c1e6e4a59e5_517x470.png",
       "summary": "Capital markets recap, commentary, and analysis for evolving traders"
-    },
-    {
-      "slug": "special-gold-comment",
-      "id": 208188589,
-      "title": "Special Gold Comment",
-      "cover": "https://substackcdn.com/image/fetch/$s_!avxr!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff5089ddd-46d2-43a6-a22b-67d6ad0068cf_1918x1402.png",
-      "summary": "Liquidation risk to Accumulation risk."
-    },
-    {
-      "slug": "goldfix-pm-684",
-      "id": 208184350,
-      "title": "GoldFix PM: Oil Slams Gold Rally- Recap.",
-      "cover": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/e4f0405b-1858-408b-a4ed-724ef17c39b5_470x470.png",
-      "summary": "GoldFix PM"
-    },
-    {
-      "slug": "how-americas-energy-sources-changed",
-      "id": 208191110,
-      "title": "How America\u2019s Energy Sources Changed Over 250 Years",
-      "cover": "https://substackcdn.com/image/fetch/$s_!JSyt!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F575d0ee2-9993-45a6-9c00-60cd371d95ad_2000x2300.webp",
-      "summary": "Visual Capitalist"
     }
   ],
   "passage": {
-    "text": "This is the 3rd time in 3 weeks Goldman has noted without outright recommending Gold to its regular clients  that it is looking interesting.",
-    "title": "Head of Trading: \"Gold. I think it\u2019s time to start nibbling.\"",
-    "date": "2026-07-27"
+    "text": "The confrontation has stopped the recovery in shipping that began in early June. Confirmed oil flows through Hormuz have fallen to about 5.1 million barrels per day from 12.5 million barrels per day only one week earlier. Iranian exports account for roughly 1.7 million barrels per day of the remaining traffic.",
+    "title": "JPM on Oil: Escalate. Negotiate. Violate. Repeat.",
+    "date": "2026-07-28"
   },
   "otherNews": [
     {
