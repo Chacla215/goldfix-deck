@@ -1,8 +1,15 @@
 {
-  "date": "2026-07-28",
+  "date": "2026-07-29",
   "title": "JPMorgan's Oil Warning",
-  "cover": "https://substack-post-media.s3.amazonaws.com/public/images/bc54e37d-39bc-49a6-8d2f-61ef698159ec_1400x1400.png",
+  "cover": "https://substack-post-media.s3.amazonaws.com/public/images/5f0777eb-b0a9-4b93-b64f-017788e41bc5_1280x720.jpeg",
   "posts": [
+    {
+      "slug": "goldfix-pm-144",
+      "id": 208816277,
+      "title": "GoldFix PM: Why the Fed May Hike",
+      "cover": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/e4f0405b-1858-408b-a4ed-724ef17c39b5_470x470.png",
+      "summary": "GoldFix PM"
+    },
     {
       "slug": "persian-gulf-de-escalation-vs-red",
       "id": 208819395,
@@ -137,28 +144,22 @@
   },
   "otherNews": [
     {
-      "slug": "maison-placements-us-debt-puts-gold",
-      "title": "Maison Placements: US Debt Puts Gold on a Path to $6,000",
-      "cover": "https://substack-post-media.s3.amazonaws.com/public/images/4d6339ad-a606-4147-864f-a637bec9e955_2048x1152.png",
-      "date": "2026-07-27"
+      "slug": "persian-gulf-de-escalation-vs-red",
+      "title": "Persian Gulf De-escalation vs. Red Sea Escalation",
+      "cover": "https://substackcdn.com/image/fetch/$s_!qp6T!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdf1b7907-68f6-4cca-97d0-bc19b9bdf1ad_580x330.png",
+      "date": "2026-07-28"
     },
     {
-      "slug": "rabo-the-pause-before-the-next-shock",
-      "title": "Rabo: The Pause Before the Next Shock",
-      "cover": "https://substackcdn.com/image/fetch/$s_!azwm!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F26960641-6bed-4547-ade7-e877f7d964ae_1672x941.png",
-      "date": "2026-07-27"
+      "slug": "founders-am-red-sea-escalation-and",
+      "title": "Founders AM: Red Sea Escalation and a Mining Buy Rec from Goldman",
+      "cover": "",
+      "date": "2026-07-28"
     },
     {
-      "slug": "ronald-peter-stoferle-reveals-the",
-      "title": "Ronald-Peter St\u00f6ferle Reveals The Six Vectors of Gold Remonetization",
-      "cover": "https://substackcdn.com/image/fetch/$s_!OO6Z!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbf04b589-5b60-4c34-9b08-c8818c8d97f3_600x600.png",
-      "date": "2026-07-27"
-    },
-    {
-      "slug": "founders-critical-minerals-and-other",
-      "title": "Founders: Critical Minerals and Other HALO Investments Updated",
+      "slug": "citi-india-gold-imports-to-face-continued",
+      "title": "CITI: India gold imports to face continued headwinds in 3Q\u201926",
       "cover": "https://substackcdn.com/image/fetch/$s_!AToN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe4bd1277-f805-4e8a-a9e8-0c1e6e4a59e5_517x470.png",
-      "date": "2026-07-27"
+      "date": "2026-07-28"
     }
   ]
 }
