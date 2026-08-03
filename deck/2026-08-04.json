@@ -21,6 +21,10 @@
       "hot": false
     }
   ],
+  "calendar_source": {
+    "src": "ff",
+    "label": "ForexFactory feed, not MarketWatch \u2014 estimates may differ"
+  },
   "sponsor": {
     "title": "GoldFix Members: Exclusive Bullion Pricing Now Available",
     "dek": "GoldFix has partnered with Battalion Metals to give our community direct access to institutional-grade physical bullion at exclusive member pricing. Through this partnership, GoldFix members can purchase gold and silver products at pricing typically about 100 basis points below prevailing dealer rates,",
