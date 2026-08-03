@@ -1,0 +1,30 @@
+{
+  "date": "2026-08-03",
+  "draft_id": 209238957,
+  "rows": [
+    {
+      "time": "9:45 am",
+      "event": "S&P final U.S. manufacturing PMI July -- 53.9",
+      "note": "",
+      "hot": false
+    },
+    {
+      "time": "10:00 am",
+      "event": "ISM manufacturing July 54.0% 53.3%",
+      "note": "",
+      "hot": false
+    },
+    {
+      "time": "10:00 am",
+      "event": "Construction spending June 0.3% 0.1%",
+      "note": "",
+      "hot": false
+    }
+  ],
+  "sponsor": {
+    "title": "GoldFix Members: Exclusive Bullion Pricing Now Available",
+    "dek": "GoldFix has partnered with Battalion Metals to give our community direct access to institutional-grade physical bullion at exclusive member pricing. Through this partnership, GoldFix members can purchase gold and silver products at pricing typically about 100 basis points below prevailing dealer rates,",
+    "cover": "https://substack-post-media.s3.amazonaws.com/public/images/767a6e1c-3ac2-4021-9fcd-606706e80e77_481x234.png",
+    "source": "GoldFix"
+  }
+}
