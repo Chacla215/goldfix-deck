@@ -1,7 +1,7 @@
 {
-  "date": "2026-08-03",
+  "date": "2026-08-04",
   "title": "Gold Should Move Large if it Breaks These Levels",
-  "cover": "https://substack-post-media.s3.amazonaws.com/public/images/bc54e37d-39bc-49a6-8d2f-61ef698159ec_1400x1400.png",
+  "cover": "https://substack-post-media.s3.amazonaws.com/public/images/0573003c-9964-4030-a5f8-5e9a01eb94e0_1280x720.jpeg",
   "posts": [
     {
       "slug": "brent-falls-almost-9-on-us-iran-deal",
@@ -9,6 +9,20 @@
       "title": "Brent Falls Almost 9% on US-Iran Deal Talks, Gold Gains Before the Fed",
       "cover": "https://substack-post-media.s3.amazonaws.com/public/images/f3043b22-4118-4b2c-bf3e-833c7316973d_1400x788.png",
       "summary": ""
+    },
+    {
+      "slug": "goldfix-pm-5b9",
+      "id": 209616061,
+      "title": "GoldFix PM: Market Recap Update",
+      "cover": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/e4f0405b-1858-408b-a4ed-724ef17c39b5_470x470.png",
+      "summary": "GoldFix PM"
+    },
+    {
+      "slug": "founders-pm-special-report",
+      "id": 209688756,
+      "title": "Founders PM: Special Report",
+      "cover": "",
+      "summary": "DB"
     },
     {
       "slug": "special-japan-with-us-help-steps",
@@ -142,20 +156,6 @@
       "title": "BBG: Ghana Earmarks $429 Million to Buy Gold",
       "cover": "https://substack-post-media.s3.amazonaws.com/public/images/12d0b42d-179f-40ad-894c-a7bdd074ae2f_2048x1152.png",
       "summary": "The revised 2026 budget moves the domestic gold purchase programme from the Bank of Ghana to Goldbod, after the IMF objected to its quasi-fiscal character."
-    },
-    {
-      "slug": "founders-am-fed-post-mortem-and-the",
-      "id": 209106083,
-      "title": "Founders AM: Fed Post-Mortem and The Day Ahead",
-      "cover": "https://substackcdn.com/image/fetch/$s_!AToN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe4bd1277-f805-4e8a-a9e8-0c1e6e4a59e5_517x470.png",
-      "summary": "GSTrader, SC"
-    },
-    {
-      "slug": "oil-rises-4-as-saudi-refinery-shuts",
-      "id": 209102158,
-      "title": "Oil Rises 7% as Saudi Refinery Shuts and Hormuz Traffic Stays Halted",
-      "cover": "https://substackcdn.com/image/fetch/$s_!vd2r!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb676e74e-07b0-4269-b183-a4e264a09ddd_1264x652.png",
-      "summary": "Strikes on US troops and Saudi energy sites reversed a three-day sell-off; the ICE gasoil crack broke above $70 a barrel to record levels."
     }
   ],
   "passage": {
@@ -165,46 +165,28 @@
   },
   "otherNews": [
     {
-      "slug": "founders-there-will-be-almost-definitely",
-      "title": "There will (almost) definitely be a breakout next week",
-      "cover": "https://substackcdn.com/image/fetch/$s_!AcRb!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1d9e6baa-6bb9-4d22-91a5-1529026bb5a5_1469x646.png",
-      "date": "2026-08-02"
+      "slug": "founders-pm-special-report",
+      "title": "Founders PM: Special Report",
+      "cover": "",
+      "date": "2026-08-03"
     },
     {
-      "slug": "gold-second-quarter-demand-and-supply",
-      "title": "GOLD: Second-quarter demand and supply trends; What to watch next",
-      "cover": "https://substackcdn.com/image/fetch/$s_!TIqV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F635f943a-a73b-4265-a423-ff1cc0728e74_724x622.png",
-      "date": "2026-08-02"
+      "slug": "special-japan-with-us-help-steps",
+      "title": "Special: Japan (With US Help) Steps Up Its Fight to Defend the Yen",
+      "cover": "https://substackcdn.com/image/fetch/$s_!K7p9!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff3565d98-1616-4299-b529-4465a4cdbe19_650x451.png",
+      "date": "2026-08-03"
     },
     {
-      "slug": "the-facts-behind-chinas-gold-reset",
-      "title": "The Facts Behind China\u2019s \u201cGold Reset\u201d",
-      "cover": "https://substackcdn.com/image/fetch/$s_!1EOs!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb63ad841-3d34-4060-a1f0-719af4a9e9e5_825x450.jpeg",
-      "date": "2026-08-02"
+      "slug": "rabo-oil-slips-as-trump-teases-a",
+      "title": "Rabo: Oil Slips as Trump Teases a Hormuz Deal That Iran Denies",
+      "cover": "https://substackcdn.com/image/fetch/$s_!0IAX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fff09a033-c36f-43be-ae24-27d404947b8b_1672x941.png",
+      "date": "2026-08-03"
     },
     {
-      "slug": "hartnett-get-out-of-stocks-fed-not",
-      "title": "Hartnett: Get Out of Stocks, Fed Not Hawkish Enough",
-      "cover": "https://substack-post-media.s3.amazonaws.com/public/images/599f5b97-f361-4b40-b5ca-8320c432a244_608x450.png",
-      "date": "2026-08-02"
-    },
-    {
-      "slug": "founders-am-chart-central-banks-step",
-      "title": "Founders AM: Chart- Central Banks Step Up",
+      "slug": "founders-what-is-going-on-with-the",
+      "title": "Founders: What is going on with the Yen?",
       "cover": "https://substackcdn.com/image/fetch/$s_!AToN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe4bd1277-f805-4e8a-a9e8-0c1e6e4a59e5_517x470.png",
-      "date": "2026-08-02"
-    },
-    {
-      "slug": "tether-aggressively-buys-the-gold",
-      "title": "**Tether Aggressively Buys the Gold Dip",
-      "cover": "https://substackcdn.com/image/fetch/$s_!788P!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F176c5678-ca74-4790-8cf2-9547a56020f2_852x511.png",
-      "date": "2026-08-01"
-    },
-    {
-      "slug": "special-report-pay-cuts-now-fired",
-      "title": "Special Report: Pay-Cuts Today, Fired Tomorrow",
-      "cover": "https://substackcdn.com/image/fetch/$s_!Yxbf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F13ba1f0d-4cf8-4992-b227-56960b66b76e_639x361.png",
-      "date": "2026-08-01"
+      "date": "2026-08-03"
     }
   ]
 }
