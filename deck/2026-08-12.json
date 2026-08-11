@@ -1,0 +1,40 @@
+{
+  "date": "2026-08-12",
+  "draft_id": 210746807,
+  "rows": [
+    {
+      "time": "8:30a",
+      "event": "Core CPI m/m",
+      "note": "prev 0.0% \u00b7 est 0.2%",
+      "hot": false
+    },
+    {
+      "time": "8:30a",
+      "event": "Core CPI y/y",
+      "note": "prev 2.6% \u00b7 est 2.5%",
+      "hot": true
+    },
+    {
+      "time": "8:30a",
+      "event": "CPI m/m",
+      "note": "prev -0.4% \u00b7 est 0.1%",
+      "hot": false
+    },
+    {
+      "time": "8:30a",
+      "event": "CPI y/y",
+      "note": "prev 3.5% \u00b7 est 3.4%",
+      "hot": false
+    }
+  ],
+  "calendar_source": {
+    "src": "ff",
+    "label": "ForexFactory feed, not MarketWatch; estimates may differ"
+  },
+  "sponsor": {
+    "title": "GoldFix Members: Exclusive Bullion Pricing Now Available",
+    "dek": "GoldFix has partnered with Battalion Metals to give our community direct access to institutional-grade physical bullion at exclusive member pricing. Through this partnership, GoldFix members can purchase gold and silver products at pricing typically about 100 basis points below prevailing dealer rates,",
+    "cover": "https://substack-post-media.s3.amazonaws.com/public/images/767a6e1c-3ac2-4021-9fcd-606706e80e77_481x234.png",
+    "source": "GoldFix"
+  }
+}
