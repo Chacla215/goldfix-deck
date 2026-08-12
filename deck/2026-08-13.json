@@ -1,0 +1,46 @@
+{
+  "date": "2026-08-13",
+  "draft_id": 210884730,
+  "rows": [
+    {
+      "time": "8:15a",
+      "event": "FOMC Member Hammack Speaks",
+      "note": "",
+      "hot": true
+    },
+    {
+      "time": "8:30a",
+      "event": "Core PPI m/m",
+      "note": "prev 0.2% \u00b7 est 0.3%",
+      "hot": false
+    },
+    {
+      "time": "8:30a",
+      "event": "PPI m/m",
+      "note": "prev -0.3% \u00b7 est 0.2%",
+      "hot": false
+    },
+    {
+      "time": "8:30a",
+      "event": "Unemployment Claims",
+      "note": "prev 199K \u00b7 est 202K",
+      "hot": false
+    },
+    {
+      "time": "8:40a",
+      "event": "FOMC Member Barkin Speaks",
+      "note": "",
+      "hot": true
+    }
+  ],
+  "calendar_source": {
+    "src": "unknown",
+    "label": "Calendar source unverified; check against MarketWatch"
+  },
+  "sponsor": {
+    "title": "GoldFix Members: Exclusive Bullion Pricing Now Available",
+    "dek": "GoldFix has partnered with Battalion Metals to give our community direct access to institutional-grade physical bullion at exclusive member pricing. Through this partnership, GoldFix members can purchase gold and silver products at pricing typically about 100 basis points below prevailing dealer rates,",
+    "cover": "https://substack-post-media.s3.amazonaws.com/public/images/767a6e1c-3ac2-4021-9fcd-606706e80e77_481x234.png",
+    "source": "GoldFix"
+  }
+}
