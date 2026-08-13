@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-12",
+  "date": "2026-08-13",
   "title": "Gold Breaks $4400, Silver $66 With Inflation Expected to Cool",
   "cover": "https://substack-post-media.s3.amazonaws.com/public/images/bc54e37d-39bc-49a6-8d2f-61ef698159ec_1400x1400.png",
   "posts": [
@@ -9,6 +9,13 @@
       "title": "Brent Falls Almost 9% on US-Iran Deal Talks, Gold Gains Before the Fed",
       "cover": "https://substack-post-media.s3.amazonaws.com/public/images/f3043b22-4118-4b2c-bf3e-833c7316973d_1400x788.png",
       "summary": ""
+    },
+    {
+      "slug": "goldfix-pm-aa2",
+      "id": 210883760,
+      "title": "GoldFix PM:",
+      "cover": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/e4f0405b-1858-408b-a4ed-724ef17c39b5_470x470.png",
+      "summary": "GoldFix PM"
     },
     {
       "slug": "in-brief-citi-likes-silver-at-75",
@@ -135,13 +142,6 @@
       "title": "Some Banks Have Not Learned Their Lesson - Founders Sunday CFTC Talk Prep",
       "cover": "https://substack-post-media.s3.amazonaws.com/public/images/d3685358-45eb-4736-b570-55dbdb9ea952_256x188.png",
       "summary": "King Fish Hook?"
-    },
-    {
-      "slug": "hartnett-false-bottoms-and-ycc-tops",
-      "id": 210222307,
-      "title": "Hartnett: False Bottoms and YCC Tops",
-      "cover": "https://substack-video.s3.amazonaws.com/video_upload/post/210222307/bffba0f7-c9f8-4752-8410-03d6d0c5c52c/transcoded-1786208586.png",
-      "summary": "Poor Man\u2019s LTCM, Rich Man\u2019s YCC [Flow Show]"
     }
   ],
   "passage": {
@@ -151,28 +151,34 @@
   },
   "otherNews": [
     {
-      "slug": "the-only-august-video-you-need-to",
-      "title": "**The Only August Video You Need to Watch for Metals",
-      "cover": "https://substackcdn.com/image/youtube/w_728,c_limit/dhxZeN5Ok9E",
-      "date": "2026-08-11"
+      "slug": "in-brief-citi-likes-silver-at-75",
+      "title": "In Brief: Citi Likes Silver at $75 in 90 days",
+      "cover": "https://substackcdn.com/image/fetch/$s_!AToN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe4bd1277-f805-4e8a-a9e8-0c1e6e4a59e5_517x470.png",
+      "date": "2026-08-12"
     },
     {
-      "slug": "rhine-crisis-deepens-europes-industrial",
-      "title": "Rhine Crisis Deepens Europe\u2019s Industrial Headwinds",
-      "cover": "https://substackcdn.com/image/fetch/$s_!oP5e!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F620373a2-b580-46de-a693-4e501f00cdfd_975x537.png",
-      "date": "2026-08-11"
+      "slug": "gold-indonesia-creates-sharia-compliant",
+      "title": "Gold: Indonesia Creates Sharia Compliant ETF",
+      "cover": "https://substackcdn.com/image/fetch/$s_!1eoO!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F58390a5f-f738-4cd1-ab40-f4b489319091_560x306.png",
+      "date": "2026-08-12"
     },
     {
-      "slug": "founders-am-goldman-confirms-it-china",
-      "title": "Founders AM: Desk Confirms it. China Has Been Gold's Dip Buyer for 3 Months and Beyond",
-      "cover": "https://substackcdn.com/image/fetch/$s_!qgC3!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F653a60f3-d866-4590-abf5-818c515431e3_1430x695.png",
-      "date": "2026-08-11"
+      "slug": "founders-am-345",
+      "title": "Founders AM:",
+      "cover": "",
+      "date": "2026-08-12"
     },
     {
-      "slug": "jpm-gold-is-waking-up-again",
-      "title": "JPM: Gold Is Waking Up Again",
-      "cover": "https://substack-post-media.s3.amazonaws.com/public/images/da1416de-7241-44ab-a776-d2f26df3bcd7_366x237.png",
-      "date": "2026-08-11"
+      "slug": "uk-regulators-to-prepare-tokenized",
+      "title": "UK regulators to prepare tokenized gold framework: Report",
+      "cover": "https://substackcdn.com/image/fetch/$s_!JrEV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fec98bd33-2fd9-4542-b2eb-474d509e9753_1450x966.jpeg",
+      "date": "2026-08-12"
+    },
+    {
+      "slug": "cpi-prep-lower-inflation-expected",
+      "title": "CPI Prep: Lower Inflation Expected (Audio)",
+      "cover": "https://substack-post-media.s3.amazonaws.com/public/images/7a1d097a-c222-4011-9b7e-c14a0d822123_569x471.png",
+      "date": "2026-08-12"
     }
   ]
 }
