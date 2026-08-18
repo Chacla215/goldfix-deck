@@ -1,14 +1,56 @@
 {
   "date": "2026-08-18",
-  "title": "Founders Sunday Discussion",
-  "cover": "https://substack-post-media.s3.amazonaws.com/public/images/b7e2e0eb-be5e-4a10-bbe0-3a0084bc6dc0_1280x720.jpeg",
+  "title": "Why Gold Belongs in a Class of Its Own",
+  "cover": "https://substack-post-media.s3.amazonaws.com/public/images/bc54e37d-39bc-49a6-8d2f-61ef698159ec_1400x1400.png",
   "posts": [
+    {
+      "slug": "gold-silver-ratio-explained",
+      "id": 211698460,
+      "title": "The Gold/Silver Ratio, Explained",
+      "cover": "",
+      "summary": ""
+    },
+    {
+      "slug": "paper-vs-physical-silver",
+      "id": 211696949,
+      "title": "Paper vs Physical Silver: Why COMEX Can Break",
+      "cover": "",
+      "summary": ""
+    },
+    {
+      "slug": "how-silver-short-squeeze-works",
+      "id": 211696948,
+      "title": "How a Short Squeeze Actually Works in Silver",
+      "cover": "",
+      "summary": ""
+    },
     {
       "slug": "brent-falls-almost-9-on-us-iran-deal",
       "id": 208960895,
       "title": "Brent Falls Almost 9% on US-Iran Deal Talks, Gold Gains Before the Fed",
       "cover": "https://substack-post-media.s3.amazonaws.com/public/images/f3043b22-4118-4b2c-bf3e-833c7316973d_1400x788.png",
       "summary": ""
+    },
+    {
+      "slug": "ranked-the-countries-using-the-most",
+      "id": 211702784,
+      "title": "Ranked: The Countries Using the Most Energy Per Person",
+      "cover": "https://substackcdn.com/image/fetch/$s_!o-oH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F897541d6-83e3-4583-9c3f-62918a9512ba_1200x1577.webp",
+      "summary": "Visual Capitalist"
+    },
+    {
+      "slug": "copper-hits-record-14396-as-lme-inventories",
+      "id": 211702989,
+      "title": "Copper Hits Record $14,396 as LME Inventories Fall for 42nd Session",
+      "cover": "https://substack-post-media.s3.amazonaws.com/public/images/306a705b-06b3-49d0-a839-9613fc832bab_2048x1152.png",
+      "summary": "Cash-to-three-month backwardation is the widest since October 2021; COMEX gold net longs the highest since September 2025"
+    },
+    {
+      "slug": "special-golds-role-in-the-middle",
+      "id": 211692918,
+      "title": "Special: Gold's Role in the Middle East",
+      "cover": "https://substack-post-media.s3.amazonaws.com/public/images/52993626-bb16-44ca-b15d-8e895300d0ea_923x709.png",
+      "summary": "State Street and the World Gold Council argue the Middle East is evolving from a traditional physical gold consumer into a financial gold investor."
     },
     {
       "slug": "goldfix-pm-2a6",
@@ -121,33 +163,12 @@
       "title": "London: Total Eclipse of the Gold",
       "cover": "https://substackcdn.com/image/fetch/$s_!5nc1!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa224d6fa-100d-4f29-9f68-142baff8e550_1280x528.png",
       "summary": "ROSS NORMAN \u2013 London - Total Eclipse of the Gold"
-    },
-    {
-      "slug": "founders-am-trading-desk-briefings",
-      "id": 211022551,
-      "title": "Founders AM: Trading Desk Briefings",
-      "cover": "https://substackcdn.com/image/fetch/$s_!AToN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe4bd1277-f805-4e8a-a9e8-0c1e6e4a59e5_517x470.png",
-      "summary": "Good Morning."
-    },
-    {
-      "slug": "gold-the-most-effective-commodity",
-      "id": 210894803,
-      "title": "Gold: The Most Effective Commodity Investment",
-      "cover": "https://substack-post-media.s3.amazonaws.com/public/images/3049781c-9fee-4145-9297-579a19fc0e15_1126x815.png",
-      "summary": "World Gold Council"
-    },
-    {
-      "slug": "goldfix-pm-aa2",
-      "id": 210883760,
-      "title": "GoldFix PM:",
-      "cover": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/e4f0405b-1858-408b-a4ed-724ef17c39b5_470x470.png",
-      "summary": "GoldFix PM"
     }
   ],
   "passage": {
-    "text": "In the fourth quarter of 2018, the MSCI USA Index fell 14% and commodities declined 9%, while gold gained 8%. During the first-quarter 2020 COVID selloff, US equities fell 20% and commodities dropped 23%, while gold returned 6%.",
-    "title": "Gold Is Not A Simple Commodity",
-    "date": "2026-08-17"
+    "text": "State Street and the World Gold Council argue a modest portfolio allocation materially improves outcomes. Their historical analysis shows allocations from 2.5% to 10% increased risk-adjusted returns, while a 5% allocation reduced volatility and drawdowns across 3-, 5- and 10-year periods.",
+    "title": "Special: Gold's Role in the Middle East",
+    "date": "2026-08-18"
   },
   "otherNews": [
     {
