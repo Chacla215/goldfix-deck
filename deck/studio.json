@@ -1,7 +1,7 @@
 {
-  "date": "2026-08-18",
+  "date": "2026-08-19",
   "title": "Why Gold Belongs in a Class of Its Own",
-  "cover": "https://substack-post-media.s3.amazonaws.com/public/images/bc54e37d-39bc-49a6-8d2f-61ef698159ec_1400x1400.png",
+  "cover": "https://substack-post-media.s3.amazonaws.com/public/images/d968d7bd-da29-4a9f-84d9-37c31cecbc1c_1280x720.jpeg",
   "posts": [
     {
       "slug": "gold-silver-ratio-explained",
@@ -30,6 +30,13 @@
       "title": "Brent Falls Almost 9% on US-Iran Deal Talks, Gold Gains Before the Fed",
       "cover": "https://substack-post-media.s3.amazonaws.com/public/images/f3043b22-4118-4b2c-bf3e-833c7316973d_1400x788.png",
       "summary": ""
+    },
+    {
+      "slug": "goldfix-pm-cf5",
+      "id": 211691822,
+      "title": "GoldFix PM:",
+      "cover": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/e4f0405b-1858-408b-a4ed-724ef17c39b5_470x470.png",
+      "summary": "GoldFix PM"
     },
     {
       "slug": "ranked-the-countries-using-the-most",
@@ -156,13 +163,6 @@
       "title": "GoldFix PM:",
       "cover": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/e4f0405b-1858-408b-a4ed-724ef17c39b5_470x470.png",
       "summary": "GoldFix PM"
-    },
-    {
-      "slug": "total-eclipse-of-the-gold",
-      "id": 210902294,
-      "title": "London: Total Eclipse of the Gold",
-      "cover": "https://substackcdn.com/image/fetch/$s_!5nc1!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa224d6fa-100d-4f29-9f68-142baff8e550_1280x528.png",
-      "summary": "ROSS NORMAN \u2013 London - Total Eclipse of the Gold"
     }
   ],
   "passage": {
@@ -172,16 +172,22 @@
   },
   "otherNews": [
     {
-      "slug": "rabo-hormuz-truce-expires-as-us-presses",
-      "title": "Rabo: Hormuz Truce Expires as US Presses Allies to Pick a Side on AI",
-      "cover": "https://substackcdn.com/image/fetch/$s_!Tq73!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb774c5f9-b01e-4226-b1cd-7eda4a9e7b58_2048x1152.png",
-      "date": "2026-08-17"
+      "slug": "ranked-the-countries-using-the-most",
+      "title": "Ranked: The Countries Using the Most Energy Per Person",
+      "cover": "https://substackcdn.com/image/fetch/$s_!o-oH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F897541d6-83e3-4583-9c3f-62918a9512ba_1200x1577.webp",
+      "date": "2026-08-18"
     },
     {
-      "slug": "gold-is-not-a-simple-commodity",
-      "title": "Gold Is Not A Simple Commodity",
-      "cover": "https://substackcdn.com/image/fetch/$s_!fN4t!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe1b0aaff-f513-434c-8b49-0b5b0704b7f6_726x747.png",
-      "date": "2026-08-17"
+      "slug": "copper-hits-record-14396-as-lme-inventories",
+      "title": "Copper Hits Record $14,396 as LME Inventories Fall for 42nd Session",
+      "cover": "https://substack-post-media.s3.amazonaws.com/public/images/306a705b-06b3-49d0-a839-9613fc832bab_2048x1152.png",
+      "date": "2026-08-18"
+    },
+    {
+      "slug": "special-golds-role-in-the-middle",
+      "title": "Special: Gold's Role in the Middle East",
+      "cover": "https://substack-post-media.s3.amazonaws.com/public/images/52993626-bb16-44ca-b15d-8e895300d0ea_923x709.png",
+      "date": "2026-08-18"
     }
   ]
 }
