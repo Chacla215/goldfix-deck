@@ -1,7 +1,7 @@
 {
-  "date": "2026-08-19",
+  "date": "2026-08-20",
   "title": "Founders: What really just happened?",
-  "cover": "https://substack-post-media.s3.amazonaws.com/public/images/bc54e37d-39bc-49a6-8d2f-61ef698159ec_1400x1400.png",
+  "cover": "https://substack-post-media.s3.amazonaws.com/public/images/72a1f420-d5eb-4429-8f41-2d6a9e4e1598_1280x720.jpeg",
   "posts": [
     {
       "slug": "paper-vs-physical-silver",
@@ -30,6 +30,13 @@
       "title": "How a Short Squeeze Actually Works in Silver",
       "cover": "",
       "summary": ""
+    },
+    {
+      "slug": "goldfix-pm-98b",
+      "id": 211840718,
+      "title": "GoldFix PM: Gold Rallies $185 to $4500 on Return of QE- With Audio Recap",
+      "cover": "https://substackcdn.com/image/fetch/$s_!LcRn!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fffba6c0b-6e50-4b1b-8551-a30f2a457796_1376x859.png",
+      "summary": "GoldFix PM"
     },
     {
       "slug": "rabo-geopolitics-on-the-boil-central",
@@ -149,13 +156,6 @@
       "title": "Founders: First Look",
       "cover": "https://substack-post-media.s3.amazonaws.com/public/images/17e08cb8-3527-4bd1-a84c-3d43e5b72389_455x113.png",
       "summary": "\"We say the trade is long gold\""
-    },
-    {
-      "slug": "goldfix-pm-e09",
-      "id": 211164844,
-      "title": "GoldFix PM: audio recap.",
-      "cover": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/e4f0405b-1858-408b-a4ed-724ef17c39b5_470x470.png",
-      "summary": "GoldFix PM"
     }
   ],
   "passage": {
@@ -165,22 +165,28 @@
   },
   "otherNews": [
     {
-      "slug": "ranked-the-countries-using-the-most",
-      "title": "Ranked: The Countries Using the Most Energy Per Person",
-      "cover": "https://substackcdn.com/image/fetch/$s_!o-oH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F897541d6-83e3-4583-9c3f-62918a9512ba_1200x1577.webp",
-      "date": "2026-08-18"
+      "slug": "rabo-geopolitics-on-the-boil-central",
+      "title": "Rabo: Geopolitics on the Boil, Central Banks Down to Prayer",
+      "cover": "https://substackcdn.com/image/fetch/$s_!aLc_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F74f8de8c-8bdc-4713-ad90-66d3566505af_1672x941.png",
+      "date": "2026-08-19"
     },
     {
-      "slug": "copper-hits-record-14396-as-lme-inventories",
-      "title": "Copper Hits Record $14,396 as LME Inventories Fall for 42nd Session",
-      "cover": "https://substack-post-media.s3.amazonaws.com/public/images/306a705b-06b3-49d0-a839-9613fc832bab_2048x1152.png",
-      "date": "2026-08-18"
+      "slug": "breaking-here-is-why-gold-just-rallied",
+      "title": "Breaking: Here is Why Gold Just Rallied $125",
+      "cover": "https://substackcdn.com/image/fetch/$s_!ufWw!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1af9f10a-e862-4ba8-bfed-0f896e0ea170_1098x858.png",
+      "date": "2026-08-19"
     },
     {
-      "slug": "special-golds-role-in-the-middle",
-      "title": "Special: Gold's Role in the Middle East",
-      "cover": "https://substack-post-media.s3.amazonaws.com/public/images/52993626-bb16-44ca-b15d-8e895300d0ea_923x709.png",
-      "date": "2026-08-18"
+      "slug": "founders-most-undervalued-since-mar23",
+      "title": "Founders: \u201cMost undervalued since Mar'23.\u201d",
+      "cover": "https://substackcdn.com/image/fetch/$s_!ctBm!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fed4a6fec-bde9-47da-b8b7-78f69f06a74c_778x467.png",
+      "date": "2026-08-19"
+    },
+    {
+      "slug": "venezuelas-43-billion-in-uk-held",
+      "title": "Venezuela\u2019s $4.3 Billion in UK-Held Gold Likely Moves Under US Treasury Control",
+      "cover": "https://substackcdn.com/image/fetch/$s_!MOLh!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6ff4820b-f29a-4888-a40d-9181f4b88176_1920x1080.webp",
+      "date": "2026-08-19"
     }
   ]
 }
