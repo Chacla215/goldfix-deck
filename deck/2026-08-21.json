@@ -1,0 +1,22 @@
+{
+  "date": "2026-08-21",
+  "draft_id": 211986426,
+  "rows": [
+    {
+      "time": "9:45 AM",
+      "event": "US Flash Manufacturing PMIAug.-54.353.89:45 AMUS Flash Services PMIAug.-53.853.6",
+      "note": "",
+      "hot": false
+    }
+  ],
+  "calendar_source": {
+    "src": "unknown",
+    "label": "Calendar source unverified; check against MarketWatch"
+  },
+  "sponsor": {
+    "title": "GoldFix Members: Exclusive Bullion Pricing Now Available",
+    "dek": "GoldFix has partnered with Battalion Metals to give our community direct access to institutional-grade physical bullion at exclusive member pricing. Through this partnership, GoldFix members can purchase gold and silver products at pricing typically about 100 basis points below prevailing dealer rates,",
+    "cover": "https://substack-post-media.s3.amazonaws.com/public/images/767a6e1c-3ac2-4021-9fcd-606706e80e77_481x234.png",
+    "source": "GoldFix"
+  }
+}
