@@ -1,7 +1,7 @@
 {
-  "date": "2026-08-20",
+  "date": "2026-08-21",
   "title": "Gold at $4500: \u201cNot the Last Price Spike\u201d",
-  "cover": "https://substack-post-media.s3.amazonaws.com/public/images/bc54e37d-39bc-49a6-8d2f-61ef698159ec_1400x1400.png",
+  "cover": "https://substack-post-media.s3.amazonaws.com/public/images/87747d8c-245a-403e-bb82-652e6b56f0f6_1280x720.jpeg",
   "posts": [
     {
       "slug": "paper-vs-physical-silver",
@@ -30,6 +30,13 @@
       "title": "Brent Falls Almost 9% on US-Iran Deal Talks, Gold Gains Before the Fed",
       "cover": "https://substack-post-media.s3.amazonaws.com/public/images/f3043b22-4118-4b2c-bf3e-833c7316973d_1400x788.png",
       "summary": ""
+    },
+    {
+      "slug": "goldfix-pm-2c8",
+      "id": 211985166,
+      "title": "GoldFix PM: audio comment.",
+      "cover": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/e4f0405b-1858-408b-a4ed-724ef17c39b5_470x470.png",
+      "summary": "GoldFix PM"
     },
     {
       "slug": "ranked-countries-that-hold-the-most",
@@ -142,13 +149,6 @@
       "title": "Gold Is Not A Simple Commodity",
       "cover": "https://substackcdn.com/image/fetch/$s_!fN4t!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe1b0aaff-f513-434c-8b49-0b5b0704b7f6_726x747.png",
       "summary": "Breaking down the WGC report"
-    },
-    {
-      "slug": "founders-cftc-cot-analysis-024",
-      "id": 211404565,
-      "title": "Founders: CFTC CoT Analysis",
-      "cover": "https://substack-post-media.s3.amazonaws.com/public/images/814fa23a-6f0a-476e-a23e-82b5dd98a7ab_667x638.png",
-      "summary": "Picture Perfect Week"
     }
   ],
   "passage": {
@@ -158,28 +158,28 @@
   },
   "otherNews": [
     {
-      "slug": "rabo-geopolitics-on-the-boil-central",
-      "title": "Rabo: Geopolitics on the Boil, Central Banks Down to Prayer",
-      "cover": "https://substackcdn.com/image/fetch/$s_!aLc_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F74f8de8c-8bdc-4713-ad90-66d3566505af_1672x941.png",
-      "date": "2026-08-19"
+      "slug": "ranked-countries-that-hold-the-most",
+      "title": "Ranked: Countries That Hold the Most Reserves in Gold",
+      "cover": "https://substackcdn.com/image/fetch/$s_!UmRu!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feaf62751-0ef1-4717-826c-f62b75777d37_1200x1500.webp",
+      "date": "2026-08-20"
     },
     {
-      "slug": "breaking-here-is-why-gold-just-rallied",
-      "title": "Breaking: Here is Why Gold Just Rallied $125",
-      "cover": "https://substackcdn.com/image/fetch/$s_!ufWw!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1af9f10a-e862-4ba8-bfed-0f896e0ea170_1098x858.png",
-      "date": "2026-08-19"
+      "slug": "rabo-two-wars-and-a-diesel-shortage",
+      "title": "Rabo: Two Wars and a Diesel Shortage Drive the Global Bond Rout",
+      "cover": "https://substackcdn.com/image/fetch/$s_!rbH7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb7c1c08c-af65-4f83-b27c-3a00229983ae_1672x941.png",
+      "date": "2026-08-20"
     },
     {
-      "slug": "founders-most-undervalued-since-mar23",
-      "title": "Founders: \u201cMost undervalued since Mar'23.\u201d",
-      "cover": "https://substackcdn.com/image/fetch/$s_!ctBm!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fed4a6fec-bde9-47da-b8b7-78f69f06a74c_778x467.png",
-      "date": "2026-08-19"
+      "slug": "founders-am-getting-long-bonds-on",
+      "title": "Founders AM: Getting Long Bonds on Operation Twist\u2019s Slight Return",
+      "cover": "https://substackcdn.com/image/fetch/$s_!AToN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe4bd1277-f805-4e8a-a9e8-0c1e6e4a59e5_517x470.png",
+      "date": "2026-08-20"
     },
     {
-      "slug": "venezuelas-43-billion-in-uk-held",
-      "title": "Venezuela\u2019s $4.3 Billion in UK-Held Gold Likely Moves Under US Treasury Control",
-      "cover": "https://substackcdn.com/image/fetch/$s_!MOLh!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6ff4820b-f29a-4888-a40d-9181f4b88176_1920x1080.webp",
-      "date": "2026-08-19"
+      "slug": "ubs-says-not-the-last-spike-in-2h",
+      "title": "UBS Says: \u201cThat Wasn\u2019t The Last Spike in 2H\u201d",
+      "cover": "https://substackcdn.com/image/fetch/$s_!c_Lk!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F196e6ea1-d68f-433e-a0d6-5812f72438e4_461x458.png",
+      "date": "2026-08-20"
     }
   ]
 }
