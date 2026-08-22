@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-21",
+  "date": "2026-08-22",
   "title": "Silver at $75.00 in Seventy-Five Days",
   "cover": "https://substack-post-media.s3.amazonaws.com/public/images/bc54e37d-39bc-49a6-8d2f-61ef698159ec_1400x1400.png",
   "posts": [
@@ -23,6 +23,13 @@
       "title": "Paper vs Physical Silver: Why COMEX Can Break",
       "cover": "https://substack-post-media.s3.amazonaws.com/public/images/94772e90-6144-4066-be0d-84094703be0a_2048x1152.png",
       "summary": ""
+    },
+    {
+      "slug": "goldfix-pm-726",
+      "id": 212132884,
+      "title": "GoldFix PM:",
+      "cover": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/e4f0405b-1858-408b-a4ed-724ef17c39b5_470x470.png",
+      "summary": "GoldFix PM"
     },
     {
       "slug": "rabo-treasury-buybacks-are-ycc-light",
@@ -149,13 +156,6 @@
       "title": "Ranked: The Countries Using the Most Energy Per Person",
       "cover": "https://substackcdn.com/image/fetch/$s_!o-oH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F897541d6-83e3-4583-9c3f-62918a9512ba_1200x1577.webp",
       "summary": "Visual Capitalist"
-    },
-    {
-      "slug": "copper-hits-record-14396-as-lme-inventories",
-      "id": 211702989,
-      "title": "Copper Hits Record $14,396 as LME Inventories Fall for 42nd Session",
-      "cover": "https://substack-post-media.s3.amazonaws.com/public/images/306a705b-06b3-49d0-a839-9613fc832bab_2048x1152.png",
-      "summary": "Cash-to-three-month backwardation is the widest since October 2021; COMEX gold net longs the highest since September 2025"
     }
   ],
   "passage": {
@@ -165,28 +165,40 @@
   },
   "otherNews": [
     {
-      "slug": "ranked-countries-that-hold-the-most",
-      "title": "Ranked: Countries That Hold the Most Reserves in Gold",
-      "cover": "https://substackcdn.com/image/fetch/$s_!UmRu!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feaf62751-0ef1-4717-826c-f62b75777d37_1200x1500.webp",
-      "date": "2026-08-20"
+      "slug": "rabo-treasury-buybacks-are-ycc-light",
+      "title": "Rabo: Treasury Buybacks Are YCC-Light, and Gold Is Pricing Fiscal Doubt",
+      "cover": "https://substackcdn.com/image/fetch/$s_!XEqC!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb9c1bd49-f49f-4643-a879-84953cb65b0f_1672x940.png",
+      "date": "2026-08-21"
     },
     {
-      "slug": "rabo-two-wars-and-a-diesel-shortage",
-      "title": "Rabo: Two Wars and a Diesel Shortage Drive the Global Bond Rout",
-      "cover": "https://substackcdn.com/image/fetch/$s_!rbH7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb7c1c08c-af65-4f83-b27c-3a00229983ae_1672x941.png",
-      "date": "2026-08-20"
+      "slug": "miners-free-cash-flow-now-more-than",
+      "title": "Miners Free Cash Flow Now More Than S&P 500",
+      "cover": "https://substackcdn.com/image/fetch/$s_!rfCp!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F08f5965d-b522-4048-b516-767d7772a9cd_1077x866.png",
+      "date": "2026-08-21"
     },
     {
-      "slug": "founders-am-getting-long-bonds-on",
-      "title": "Founders AM: Getting Long Bonds on Operation Twist\u2019s Slight Return",
+      "slug": "oil-rises-for-a-fifth-day-on-us-iran",
+      "title": "Oil Rises for a Fifth Day on US Iran Sanctions Push as Crude Stocks Hit Highest Since May",
+      "cover": "https://substack-post-media.s3.amazonaws.com/public/images/3964dfb1-f621-407a-820f-17ae75f01db4_2048x1152.png",
+      "date": "2026-08-21"
+    },
+    {
+      "slug": "jeff-currie-forget-91-brent-the-real",
+      "title": "Jeff Currie: Forget $91 Brent, The Real Crisis Is $170 Diesel",
+      "cover": "https://substackcdn.com/image/fetch/$s_!IDdh!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9e4e2772-fb72-4ed0-bc50-4be84c884f82_1200x675.jpeg",
+      "date": "2026-08-21"
+    },
+    {
+      "slug": "founders-am-trading-desk-on-1-particular",
+      "title": "Founders AM: Trading Desk on 1 particular miner",
       "cover": "https://substackcdn.com/image/fetch/$s_!AToN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe4bd1277-f805-4e8a-a9e8-0c1e6e4a59e5_517x470.png",
-      "date": "2026-08-20"
+      "date": "2026-08-21"
     },
     {
-      "slug": "ubs-says-not-the-last-spike-in-2h",
-      "title": "UBS Says: \u201cThat Wasn\u2019t The Last Spike in 2H\u201d",
-      "cover": "https://substackcdn.com/image/fetch/$s_!c_Lk!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F196e6ea1-d68f-433e-a0d6-5812f72438e4_461x458.png",
-      "date": "2026-08-20"
+      "slug": "ubs-silvers-next-move-is-higher-as",
+      "title": "UBS: Silver\u2019s Next Move Is Higher as Deficit Deepens",
+      "cover": "https://substackcdn.com/image/fetch/$s_!tLtf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffbc1a00a-23b0-465f-9a4f-1b2198be2b77_461x430.png",
+      "date": "2026-08-21"
     }
   ]
 }
