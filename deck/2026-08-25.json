@@ -1,0 +1,34 @@
+{
+  "date": "2026-08-25",
+  "draft_id": 212539701,
+  "rows": [
+    {
+      "time": "9:00 AM",
+      "event": "S&P Cotality Case-Shiller Home Px IndexJun.--0.9%",
+      "note": "",
+      "hot": false
+    },
+    {
+      "time": "10:00 AM",
+      "event": "New Home SalesJul.--628K",
+      "note": "",
+      "hot": false
+    },
+    {
+      "time": "10:00 AM",
+      "event": "Conference Bd - Consumer ConfidenceAug.--90.8",
+      "note": "",
+      "hot": false
+    }
+  ],
+  "calendar_source": {
+    "src": "unknown",
+    "label": "Calendar source unverified; check against MarketWatch"
+  },
+  "sponsor": {
+    "title": "GoldFix Members: Exclusive Bullion Pricing Now Available",
+    "dek": "GoldFix has partnered with Battalion Metals to give our community direct access to institutional-grade physical bullion at exclusive member pricing. Through this partnership, GoldFix members can purchase gold and silver products at pricing typically about 100 basis points below prevailing dealer rates,",
+    "cover": "https://substack-post-media.s3.amazonaws.com/public/images/767a6e1c-3ac2-4021-9fcd-606706e80e77_481x234.png",
+    "source": "GoldFix"
+  }
+}
