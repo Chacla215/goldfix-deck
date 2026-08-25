@@ -1,0 +1,58 @@
+{
+  "date": "2026-08-26",
+  "draft_id": 212685655,
+  "rows": [
+    {
+      "time": "8:30 AM",
+      "event": "Durable GoodsJul.--0.3%",
+      "note": "",
+      "hot": false
+    },
+    {
+      "time": "8:30 AM",
+      "event": "Personal Income, M/M%Jul.--0.2%",
+      "note": "",
+      "hot": false
+    },
+    {
+      "time": "8:30 AM",
+      "event": "Consumer Spending, M/M%Jul.--0.3%",
+      "note": "",
+      "hot": false
+    },
+    {
+      "time": "8:30 AM",
+      "event": "PCE Price Idx, M/M%Jul.---0.1%",
+      "note": "",
+      "hot": false
+    },
+    {
+      "time": "8:30 AM",
+      "event": "PCE Price Idx, Y/Y%Jul.--3.7%",
+      "note": "",
+      "hot": false
+    },
+    {
+      "time": "8:30 AM",
+      "event": "PCE Core Price Idx, M/M%Jul.--0.1%",
+      "note": "",
+      "hot": false
+    },
+    {
+      "time": "8:30 AM",
+      "event": "PCE Core Price Idx, Y/Y%Jul.--3.3%",
+      "note": "",
+      "hot": false
+    }
+  ],
+  "calendar_source": {
+    "src": "unknown",
+    "label": "Calendar source unverified; check against MarketWatch"
+  },
+  "sponsor": {
+    "title": "GoldFix Members: Exclusive Bullion Pricing Now Available",
+    "dek": "GoldFix has partnered with Battalion Metals to give our community direct access to institutional-grade physical bullion at exclusive member pricing. Through this partnership, GoldFix members can purchase gold and silver products at pricing typically about 100 basis points below prevailing dealer rates,",
+    "cover": "https://substack-post-media.s3.amazonaws.com/public/images/767a6e1c-3ac2-4021-9fcd-606706e80e77_481x234.png",
+    "source": "GoldFix"
+  }
+}
