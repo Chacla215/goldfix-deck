@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-26",
+  "date": "2026-08-27",
   "title": "How China Will Make The World Use Yuan",
   "cover": "https://substack-post-media.s3.amazonaws.com/public/images/bc54e37d-39bc-49a6-8d2f-61ef698159ec_1400x1400.png",
   "posts": [
@@ -16,6 +16,13 @@
       "title": "The Gold/Silver Ratio, Explained",
       "cover": "https://substack-post-media.s3.amazonaws.com/public/images/4228cf3c-6a19-40a8-bb73-d88a34df997e_2048x1152.png",
       "summary": ""
+    },
+    {
+      "slug": "goldfix-pm-5b6",
+      "id": 212832509,
+      "title": "GoldFix PM:",
+      "cover": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/e4f0405b-1858-408b-a4ed-724ef17c39b5_470x470.png",
+      "summary": "GoldFix PM"
     },
     {
       "slug": "oil-slides-as-traders-discount-new",
@@ -205,13 +212,6 @@
       "title": "GoldFix PM: audio comment.",
       "cover": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/e4f0405b-1858-408b-a4ed-724ef17c39b5_470x470.png",
       "summary": "GoldFix PM"
-    },
-    {
-      "slug": "ranked-countries-that-hold-the-most",
-      "id": 211989219,
-      "title": "Ranked: Countries That Hold the Most Reserves in Gold",
-      "cover": "https://substackcdn.com/image/fetch/$s_!UmRu!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feaf62751-0ef1-4717-826c-f62b75777d37_1200x1500.webp",
-      "summary": "Visual Capitalist"
     }
   ],
   "passage": {
@@ -221,28 +221,40 @@
   },
   "otherNews": [
     {
-      "slug": "gold-from-dcs-enemy-to-its-last-hope",
-      "title": "Gold: From DC\u2019s \u201cEnemy\u201d to Its Last Hope?",
-      "cover": "https://substackcdn.com/image/fetch/$s_!wzOO!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F067ad07c-4bdf-438f-b38d-a45494ab79a3_600x600.png",
-      "date": "2026-08-25"
+      "slug": "oil-slides-as-traders-discount-new",
+      "title": "Oil Slides as Traders Discount New US Sanctions Push on Iran",
+      "cover": "https://substack-post-media.s3.amazonaws.com/public/images/1ae610a2-ff24-4970-8be6-112c6483e92a_2048x1152.png",
+      "date": "2026-08-26"
     },
     {
-      "slug": "point-of-pride-china-builds-a-gold",
-      "title": "China Builds a Gold-Backed Global Network for the Yuan",
-      "cover": "https://substackcdn.com/image/fetch/$s_!O4gv!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fde90f05f-92f0-46b8-b8cd-2c75df9ba338_504x573.png",
-      "date": "2026-08-25"
+      "slug": "gold-and-silver-what-will-warsh-say",
+      "title": "Gold & Silver: What Will Warsh Say at Jackson Hole?",
+      "cover": "https://substackcdn.com/image/fetch/$s_!ER0G!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1fa6c157-ff3a-4877-88fa-af633f41b2c7_1920x1280.avif",
+      "date": "2026-08-26"
     },
     {
-      "slug": "druckenmiller-warns-treasury-buybacks",
-      "title": "Druckenmiller Warns Treasury Buybacks Are Damaging Market Credibility",
-      "cover": "https://substackcdn.com/image/fetch/$s_!l9yy!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F72039039-e867-404d-af3b-700d9dcd3e8b_597x395.png",
-      "date": "2026-08-25"
+      "slug": "rabo-weaponizing-the-dollar-without",
+      "title": "Rabo: Weaponizing The Dollar Without Blowing It Up",
+      "cover": "https://substackcdn.com/image/fetch/$s_!yXLw!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fddf30586-c437-422d-804f-935fd805da35_1536x1024.png",
+      "date": "2026-08-26"
     },
     {
-      "slug": "rabo-whatever-it-takes-when-economic",
-      "title": "Rabo: Whatever It Takes: When Economic War Becomes Market Policy",
-      "cover": "https://substackcdn.com/image/fetch/$s_!6CoO!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffbda902f-3043-42dd-8b38-5fc5152fd594_1536x1024.png",
-      "date": "2026-08-25"
+      "slug": "trump-says-us-desperately-needs-aluminum",
+      "title": "Trump Says US Desperately Needs Aluminum as Canada Trade Talks Collapse",
+      "cover": "https://substack-post-media.s3.amazonaws.com/public/images/7a0f7709-eb5f-42ec-8095-ee7f5251d18a_2048x1152.png",
+      "date": "2026-08-26"
+    },
+    {
+      "slug": "founders-am-ubs-trading-desk",
+      "title": "Founders AM: UBS Trading Desk",
+      "cover": "https://substackcdn.com/image/fetch/$s_!AToN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe4bd1277-f805-4e8a-a9e8-0c1e6e4a59e5_517x470.png",
+      "date": "2026-08-26"
+    },
+    {
+      "slug": "china-builds-global-gold-vault-network",
+      "title": "China Builds Global Gold Vault Network",
+      "cover": "https://substackcdn.com/image/fetch/$s_!VXqR!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F910c6273-1f0b-4a88-a5fc-f8f417648a23_447x449.png",
+      "date": "2026-08-26"
     }
   ]
 }
