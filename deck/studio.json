@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-28",
+  "date": "2026-08-29",
   "title": "Silver Breaks Through $70 Waiting for Warsh",
   "cover": "https://substack-post-media.s3.amazonaws.com/public/images/bc54e37d-39bc-49a6-8d2f-61ef698159ec_1400x1400.png",
   "posts": [
@@ -16,6 +16,13 @@
       "title": "The Gold/Silver Ratio, Explained",
       "cover": "https://substack-post-media.s3.amazonaws.com/public/images/4228cf3c-6a19-40a8-bb73-d88a34df997e_2048x1152.png",
       "summary": ""
+    },
+    {
+      "slug": "goldfix-pm-191",
+      "id": 213131117,
+      "title": "GoldFix PM:",
+      "cover": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/e4f0405b-1858-408b-a4ed-724ef17c39b5_470x470.png",
+      "summary": "GoldFix PM"
     },
     {
       "slug": "rabo-warsh-headlines-a-half-empty",
@@ -205,13 +212,6 @@
       "title": "GS: Gold Rally Can Wreck $4900 Target, Silver Joins the Party",
       "cover": "https://substackcdn.com/image/fetch/$s_!n5aT!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F069a2d75-efc6-4193-ba14-7256471fc46a_1672x941.png",
       "summary": "The Perfect Storm Comes"
-    },
-    {
-      "slug": "goldfix-pm-726",
-      "id": 212132884,
-      "title": "GoldFix PM:",
-      "cover": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/e4f0405b-1858-408b-a4ed-724ef17c39b5_470x470.png",
-      "summary": "GoldFix PM"
     }
   ],
   "passage": {
@@ -221,22 +221,22 @@
   },
   "otherNews": [
     {
-      "slug": "oil-falls-below-90-as-iran-oman-talks",
-      "title": "Oil Falls Below $90 as Iran-Oman Talks on Hormuz Shipping Advance",
-      "cover": "https://substack-post-media.s3.amazonaws.com/public/images/776236b2-6f05-42d1-a0c7-69eab616ea1e_2048x1152.png",
-      "date": "2026-08-27"
+      "slug": "rabo-warsh-headlines-a-half-empty",
+      "title": "Rabo: Warsh Headlines a Half-Empty Jackson Hole as Inflation Warnings Mount",
+      "cover": "https://substack-post-media.s3.amazonaws.com/public/images/b8d27d0a-7f08-4aaa-a2b7-236b2a967e81_2048x1152.png",
+      "date": "2026-08-28"
     },
     {
-      "slug": "foundersam-jackson-hole",
-      "title": "FoundersAM: Jackson Hole [+]",
-      "cover": "https://substackcdn.com/image/fetch/$s_!AToN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe4bd1277-f805-4e8a-a9e8-0c1e6e4a59e5_517x470.png",
-      "date": "2026-08-27"
+      "slug": "stream-kevin-warsh-speech-at-jackson",
+      "title": "Stream: Kevin Warsh Speech at Jackson Hole",
+      "cover": "https://substackcdn.com/image/youtube/w_728,c_limit/0UIKsanJb84",
+      "date": "2026-08-28"
     },
     {
-      "slug": "druckenmiller-says-let-the-bond-market",
-      "title": "Druckenmiller Says: \u201cLet The Bond Market Speak\u201d",
-      "cover": "https://substackcdn.com/image/fetch/$s_!FVVI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3ba3b732-9f73-4086-a656-1e92b7eaab67_1600x900.png",
-      "date": "2026-08-27"
+      "slug": "markets-brace-for-warshs-jackson",
+      "title": "BBG: Markets Brace for Warsh\u2019s Jackson Hole Test Friday",
+      "cover": "https://substackcdn.com/image/fetch/$s_!EOLd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9b08e938-fa39-449b-9f6a-1f686ab3af3d_770x448.jpeg",
+      "date": "2026-08-28"
     }
   ]
 }
